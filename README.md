@@ -1,0 +1,2 @@
+# CMakeProject_Resources
+Ресурсы
