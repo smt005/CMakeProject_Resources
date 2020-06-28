@@ -2,8 +2,8 @@
 	"window" : 
 	{
 		"fullscreen" : false,
-		"height" : 860,
+		"height" : 540,
 		"title" : "Window_default",
-		"width" : 1020
+		"width" : 960
 	}
 }
