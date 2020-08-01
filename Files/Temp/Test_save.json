@@ -1,0 +1,33 @@
+{
+	"childs" : 
+	[
+		{
+			"name" : ""
+		},
+		{
+			"childs" : 
+			[
+				{
+					"name" : "Child first"
+				},
+				{
+					"name" : "selectBtn"
+				}
+			],
+			"name" : "Second",
+			"textures" : 
+			[
+				"textures/back_left_buttom",
+				"textures/back_left",
+				"textures/back_left_top",
+				"textures/back_top",
+				"textures/back_right_top",
+				"textures/back_right",
+				"textures/back_right_buttom",
+				"textures/back_buttom",
+				"textures/back_center"
+			]
+		}
+	],
+	"name" : ""
+}

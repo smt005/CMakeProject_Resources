@@ -1,0 +1,48 @@
+{
+  "objects": [
+    {
+      "name": "Plane",
+      "model": "PlaneGreed",
+      "pos": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Plane3DsMax",
+      "model": "Plane",
+      "pos": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "name": "Tower",
+      "model": "Tower",
+      "pos": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Car_00",
+      "model": "Car",
+      "pos": [
+        2,
+        4,
+        0.5
+      ]
+    },
+    {
+      "name": "Car_01",
+      "model": "Car",
+      "pos": [
+        1,
+        0.25
+      ]
+    }
+  ]
+}

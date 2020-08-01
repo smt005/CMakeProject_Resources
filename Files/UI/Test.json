@@ -1,0 +1,98 @@
+{
+  "_name": "root",
+  "name": {
+    "name": "asd",
+    "eman": "dsa"
+  },
+  "childs": [
+    {
+      "name": {},
+      "_name": "First",
+      "height": "321%",
+      "width": "100%",
+      "color": [
+        0,
+        0,
+        0,
+        0.5
+      ]
+    },
+    {
+      "name": "Second",
+      "height": 0.9,
+      "width": 0.9,
+      "align": "center",
+      "textures": [
+        "textures/back_left_buttom",
+        "textures/back_left",
+        "textures/back_left_top",
+        "textures/back_top",
+        "textures/back_right_top",
+        "textures/back_right",
+        "textures/back_right_buttom",
+        "textures/back_buttom",
+        "textures/back_center"
+      ],
+      "childs": [
+        {
+          "name": "Child first",
+          "class": "CloseButton"
+        },
+        {
+          "name": "selectBtn",
+          "height": 12,
+          "width": "80.0%",
+          "align": [
+            "bottom",
+            "center"
+          ],
+          "callback": "selectFunction",
+          "textures": {
+            "normal": [
+              "textures/selectButton/normal_left_buttom",
+              "textures/selectButton/normal_left",
+              "textures/selectButton/normal_left_top",
+              "textures/selectButton/normal_top",
+              "textures/selectButton/normal_right_top",
+              "textures/selectButton/normal_right",
+              "textures/selectButton/normal_right_buttom",
+              "textures/selectButton/normal_buttom",
+              "textures/selectButton/normal_center"
+            ],
+            "press": [
+              "textures/selectButton/press_left_buttom",
+              "textures/selectButton/press_left",
+              "textures/selectButton/press_left_top",
+              "textures/selectButton/press_top",
+              "textures/selectButton/press_right_top",
+              "textures/selectButton/press_right",
+              "textures/selectButton/press_right_buttom",
+              "textures/selectButton/press_buttom",
+              "textures/selectButton/press_center"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "classes": [
+    {
+      "name": "CloseButton",
+      "height": 5,
+      "width": "10.0%",
+      "align": [
+        "top",
+        "right"
+      ],
+      "callback": "close",
+      "textures": {
+        "normal": [
+          "textures/closeButton/normal_left",
+          "textures/closeButton/normal",
+          "textures/closeButton/normal_right"
+        ],
+        "press": "textures/closeButton/press"
+      }
+    }
+  ]
+}
