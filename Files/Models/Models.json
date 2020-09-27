@@ -7,6 +7,10 @@
     "shape": "Models/Car.obj",
     "texture": "Textures/Box.jpg"
   },
+  "Car_red": {
+    "shape": "Models/Car.obj",
+    "texture": "Textures/Colors/red.png"
+  },
   "Plane": {
     "shape": "Models/Plane.obj",
     "texture": "Textures/Box.jpg"
@@ -49,5 +53,14 @@
     "shape": "Models/Sphere_01.obj",
     "texture": "Textures/Colors/red.png",
     "scale": [ 0.25, 0.25, 0.1 ]
+  },
+  "Grass_3000": {
+    "shape": "Models/Plane100.obj",
+    "texture": "Textures/Grass/Grass_3000.jpg"
+  },
+  "Road_01": {
+    "shape": "Models/Plane100.obj",
+	"scale": 0.1,
+    "texture": "Textures/Road/Road_1024.jpg"
   }
 }
