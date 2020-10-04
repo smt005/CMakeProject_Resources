@@ -1,0 +1,49 @@
+{
+  "objects": [
+    {
+      "name": "Triangle",
+      "model": "Triangle_200",
+      "pos": [
+        -50,
+        50,
+        -50
+      ]
+    },
+    {
+      "name": "Box1",
+      "model": "Box1",
+      "pos": [
+        0.0,
+        0.0,
+        10.0
+      ]
+    },
+    {
+      "name": "Sphere",
+      "model": "Sphere",
+      "pos": [
+        10.0,
+        0,
+        10.0
+      ]
+    },
+    {
+      "name": "SphereBox",
+      "model": "SphereBox",
+      "pos": [
+        10.0,
+        10.0,
+        10.0
+      ]
+    },
+    {
+      "name": "Sphere_01",
+      "model": "Sphere_01",
+      "pos": [
+		0,
+        10.0,
+        10.0
+      ]
+    }
+  ]
+}

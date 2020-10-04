@@ -45,6 +45,11 @@
     "shape": "Models/Triangle.obj",
     "texture": "Textures/Box.jpg"
   },
+  "Triangle_200": {
+    "shape": "Models/Triangle.obj",
+    "texture": "Textures/Box.jpg",
+	"scale": 200.0
+  },
   "Cursor_red": {
     "shape": "Models/Sphere_01.obj",
     "texture": "Textures/Colors/red.png",
